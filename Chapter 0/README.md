@@ -1,1 +1,0 @@
-That is an first python program. In which i am studying about python.(1st lecture)
